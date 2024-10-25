@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>ICON.ico</file>
+        <file>Spacer.png</file>
+        <file>SplashScreen.png</file>
+        <file>Title.png</file>
+        <file>TitleWithIcon.png</file>
+        <file>WallPaper.jpg</file>
+    </qresource>
+    <qresource prefix="/Files">
+        <file>checksums.json</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file>Lobster-Regular.ttf</file>
+    </qresource>
+</RCC>
